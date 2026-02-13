@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste react by raghuvver singh ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raghuveer7773/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Raghuveer Singh Rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raghuveer7773/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Raghuveer7773/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react-dom": "^19.2.4"
+  }
+}
